@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a  target="blank">
-    <img src="images/logo.png" alt="Logo" width="156" height="156">
+    <img src="images/c.png" alt="Logo" width="156" height="156">
   </a>
   <h2 align="center" style="font-weight: 600">Chiang‘s roll call game</h2>
   <p align="center">
@@ -10,7 +10,6 @@
   </p>
 </p>
 
-![home][c]
 
 ## ✨ 特性
 
@@ -66,10 +65,9 @@
 ## 🖼️ 截图
 
 ![Jiang][a]
-![Tianyi][b]
+
 
 
 
 [a]: img/a.png
-[b]: img/b.png
 [c]: img/c.png
