@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a  target="blank">
-    <img src="images/c.png" alt="Logo" width="156" height="156">
+    <img src="img/c.png" alt="Logo" width="156" height="156">
   </a>
   <h2 align="center" style="font-weight: 600">Chiang‘s roll call game</h2>
   <p align="center">
