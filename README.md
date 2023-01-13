@@ -10,7 +10,7 @@
   </p>
 </p>
 
-![home-2][c]
+![home][c]
 
 ## ✨ 特性
 
@@ -48,11 +48,11 @@
 
 ## 🖼️ 截图
 
-![lyrics][a]
-![album][b]
+![Jiang][a]
+![Tianyi][b]
 
 
 
-[a]: imag/a.png
-[b]: imag/b.png
+[a]: img/a.png
+[b]: img/b.png
 [c]: img/c.png
